@@ -7,6 +7,7 @@ namespace SingletonPattern
         static void Main(string[] args)
         {
             //Simple Logger
+            //And?
 
             Logger logger = Logger.Instance;
             Logger logger1 = Logger.Instance;
